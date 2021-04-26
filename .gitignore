@@ -1,5 +1,4 @@
 venv
-visualizations
 *.sav
 *.h5
 *.csv
