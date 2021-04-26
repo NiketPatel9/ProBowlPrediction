@@ -1,0 +1,7 @@
+venv
+visualizations
+*.sav
+*.h5
+*.csv
+.idea
+__pycache__
